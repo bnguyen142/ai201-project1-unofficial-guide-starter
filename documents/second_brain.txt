@@ -1,0 +1,32 @@
+Source: Sheila Mac Adventures — Second Brain with Supernote Part 1
+URL: https://www.sheilamacadventures.com/secondbrain/secondbrain1
+
+Second Brain with Supernote
+
+Core Concept:
+Implementing Tiago Forte's Second Brain methodology using a Supernote device. The approach centers on externalizing thinking through digital organization to enhance productivity and creativity.
+
+Four Pillars of Second Brain (C.O.D.E.):
+1. Capture: Collect information from diverse sources including articles, books, and personal insights
+2. Organize: Categorize and tag materials for convenient retrieval
+3. Distill: Build connections between information pieces to create interconnected knowledge
+4. Express: Regularly review and synthesize to generate actionable insights
+
+P.A.R.A. Organization System:
+Rather than keeping everything flat, use the P.A.R.A. methodology:
+- Projects: Active initiatives with deadlines
+- Areas: Ongoing responsibilities
+- Resources: Reference materials and collections
+- Archives: Completed or inactive items
+
+Supernote Implementation:
+The author structured their device with these components:
+- A root folder serving as the primary organizational hub
+- Dedicated dashboard for system overview
+- Documents folder containing Areas, Resources, and Archives
+- Notes folder housing Projects
+- Subfolders organized by specific topics
+- Interconnected dashboards and quick-access toolbars
+
+Key Takeaway:
+The system prioritizes cross-device accessibility, ensuring information remains accessible across laptops, tablets, and smartphones while maintaining consistent organizational principles. For BuJo users, the P.A.R.A. system maps well: your daily log is a Project, your habit trackers are an Area, and completed months go to Archives.

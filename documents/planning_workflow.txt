@@ -1,0 +1,33 @@
+Source: Sheila Mac Adventures — Planning with Supernote
+URL: https://www.sheilamacadventures.com/snworkflows/planningsupernote
+
+Supernote Planning Workflow
+
+This article details how to use the Supernote as an integrated planning system that combines handwriting with digital calendar synchronization.
+
+Key Planning Steps:
+
+Foundation Setup:
+Import a yearly planner template (e.g., My Deep Guide's yearly planner) into Supernote, then duplicate it for yearly, monthly, weekly, and daily spreads.
+
+Handwriting to Digital Bridge:
+Rather than maintaining separate systems, users can "turn handwritten notes into events" that sync directly to Apple Calendar through a custom workaround. This eliminates the need to switch between analog and digital planning tools.
+
+Routine Structure:
+- Monthly planning: duplicate templates and set goals
+- Weekly spreads: handle scheduling and habit tracking
+- Daily pages: capture tasks and reflections
+
+Review Process:
+Conduct periodic reviews at week or month's end, marking completed items and archiving pages.
+
+Why This System Works:
+This hybrid approach provides "the pen-and-paper feel of handwriting" combined with "the structure of a yearly template" and "the power of digital sync with Apple Calendar."
+
+The methodology eliminates the need to redraw layouts repeatedly while ensuring nothing gets lost between analog note-taking and digital scheduling — allowing users to enjoy tactile handwriting satisfaction without sacrificing organizational reliability.
+
+Bullet Journal Application:
+- Import BuJo-style templates as PDFs into Supernote
+- Use daily log pages for rapid logging of tasks, events, and notes
+- Monthly and weekly spreads work well as Supernote notebooks
+- Use headers and keywords to navigate quickly between spreads

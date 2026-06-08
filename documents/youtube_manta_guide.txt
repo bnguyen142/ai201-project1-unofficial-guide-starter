@@ -1,0 +1,64 @@
+Source: YouTube — "In-Depth Complete Guide to the Supernote Manta" by Kit (Inking tablets channel)
+URL: https://www.youtube.com/watch?v=N18W_4Xi_Ck
+
+=== DEVICE OVERVIEW ===
+
+The Supernote A5X2 Manta is ideal for users seeking a dedicated note-taking device with a focus on the writing experience. It has a superior writing feel, lightweight design, and thoughtful software features made for note-taking. The ceramic pen nibs never wear down and never need replacing — they feel like a ballpoint pen on canvas. The two touch sliders give quick access and lots of useful shortcuts, all in a distraction-free environment. It does lack a front light, which may be a drawback in low light conditions.
+
+Supernote is for those who want to build a well-organized second brain, manage work and personal life with elegant digital stationery, and have freedom to create on a device that lives and grows with them.
+
+=== SCREEN & HARDWARE ===
+
+The A5X2 has a 300 PPI screen vs the older A5X's 227 PPI — the difference is noticeable. It is thinner and lighter than the previous generation. The screen is a plastic (Carter Mobius) screen, which is nicer to write on than glass. No front light — seek out well-lit spaces. The gap between the pen and the screen surface is reduced compared to the previous generation.
+
+=== PEN & WRITING FEEL ===
+
+Ceramic nibs on the Supernote never wear down and don't need replacing. The Heart of Metal pen is recommended for most users. The Twin Pen (pen + paper hybrid) is good if you want one pen for both paper and Supernote, but you can feel the mechanism vibrating inside. The Lami pen fits better with the Crystal edition. Writing feel on the Manta is superior — straighter lines with no digitizer wobble.
+
+=== FILE TRANSFER & SYNC ===
+
+Multiple ways to get documents onto the Supernote:
+- USB cable: plug in and drag-and-drop PDFs directly into the file system like a hard drive — simple and fast
+- AirDrop-style mode: go to a URL on your browser and it opens a web instance of the Partner App — upload or view files
+- Screen sharing: use the same URL to screen mirror over Wi-Fi
+- Partner App: available on phone and PC for syncing up and down
+- Supernote Cloud: sync between multiple Supernote devices
+
+The device always opens straight back to the last note and last position you were at.
+
+=== PLANNING & BULLET JOURNAL USE ===
+
+The Supernote is a natural planning device. The reviewer uses a two-week PDF planner — every fortnight, he makes a new PDF and plans his day on it with a pen. The planner includes a timetable, weekly recurring tasks, and individual daily plans.
+
+Key planning features:
+- To-Do function: select any handwritten text, add it to your global to-do list. Check it off from anywhere on the device. The item stays visible in the notebook but disappears from the to-do list.
+- Star marks: leave a star mark on any page and instantly jump forward or backward to that page within a document.
+- Digest feature: add double square brackets around any handwritten text to send it to a global Digest. From anywhere on the device, you can access all your digested notes. You can also add a note to a digest entry. A great feature for capturing key ideas.
+- Links: select any text or element and link it to another file anywhere on the device.
+- Stickers: built-in stickers plus the ability to create your own custom stickers — like a permanent clipboard of writing elements and shapes you use repeatedly.
+
+=== ORGANIZATION ===
+
+The device supports dedicated notebooks for recurring tasks. You can have multiple Supernotes if needed. The Quick Access bar lets you pin frequently used notebooks. Favorites feature for prioritizing important documents.
+
+=== APPS & SIDELOADING ===
+
+No AI features — this is intentional. If you want AI apps, this is not the device for you.
+
+Built-in apps include Kindle. The Atelier drawing app is Supernote's own app — works excellently for drawing and sketching. Recently updated to allow custom canvas sizes up to A3, and PSD export (preserving layers for editing on computer).
+
+Sideloading is possible via ADB (USB cable + terminal) but complicated. Recommended first sideloads: Aurora Store and Froid (open-source app stores). Google apps (Docs, Chrome) do not work because the device is not Google Play certified. OneNote was very difficult. Word sort of works.
+
+Recommendation: Don't buy the Supernote to add apps. Buy it for the bespoke Supernote experience and its purpose-built features.
+
+=== DRAWING ===
+
+The Atelier app is a highlight. Supports layers, multiple pencil types and thicknesses, spray can for tone, and different darkness levels. Can export as PSD. Great for sketching. The pencil tool has gradients from 4H to 6B. Pen tilt is not supported — a noted limitation for artists. No pen wobble issue (unlike reMarkable Paper Pro) when drawing lines.
+
+=== REPAIRABILITY ===
+
+Fully user-upgradeable and user-repairable. You can replace the battery yourself. Supernote DIY program provides templates and magnets to build your own cases. Community-driven.
+
+=== VERDICT ===
+
+Reviewer gave the Supernote Manta the number one spot in their ranking of best e-ink tablet for most people. Called it "a triumph." The software experience, thoughtful features, and writing feel make it stand out. At its price point, viewed as a long-term investment — if it lives with you for 5-10 years, it represents value. Tagline: "Dive into mind flow."

@@ -1,0 +1,24 @@
+Source: Sheila Mac Adventures — My Supernote Setup
+URL: https://www.sheilamacadventures.com/organization/mysupernotesetup/
+
+Sheila Mac's Supernote Organization System
+
+Overview:
+After five years of refinement, Sheila Mac has developed a comprehensive digital organization system using her Supernote device that balances structure with flexibility.
+
+Core Components:
+
+Top-Down Organization Structure:
+The system uses two main folders: Documents (for archiving completed work) and Notes (serving as a "second brain" with major focus areas). This approach eliminates cluttered navigation and preserves finished projects as long-term archives.
+
+Digital Planner Implementation:
+Sheila converts an MDO planner into PDF format to recreate the tactile experience of analog planning. She incorporates headers and keywords for quick navigation while maintaining the benefits of digital tools like search functionality and automatic backups.
+
+Essential Features for Efficiency:
+- Quick Access bar organizes meeting notes and daily capture notes into six-month sections annually
+- Favorites feature forces deliberate prioritization of important documents
+- Landing page with hyperlinks serves as a navigational compass
+- Digest App functions as a centralized database feeding multiple projects
+
+Key Principle:
+The author emphasizes intentionality throughout her system, ensuring "what I prioritize" remains visible and accessible rather than buried in folder structures. This deliberate approach enables faster workflow and better idea capture across projects.

@@ -1,0 +1,24 @@
+Source: Sheila Mac Adventures — Syncing Between Multiple Devices
+URL: https://www.sheilamacadventures.com/howto/syncsupernote
+
+How to Sync Supernote Between Multiple Devices
+
+The article provides a step-by-step guide for syncing Supernote devices (using Nomad and Manta as examples) to prevent file conflicts.
+
+The Process:
+The recommended workflow involves alternating between devices:
+1. Write on your first device (Nomad)
+2. Sync that device completely
+3. Once finished, sync your second device (Manta)
+4. Continue working on the second device
+5. Repeat the cycle
+
+Key Best Practices:
+The guide emphasizes avoiding simultaneous file access across devices. Users should "remember which device was synced last and which device you are currently writing on" to prevent issues.
+
+Additional cautions include:
+- Don't open files on other devices while actively editing them elsewhere
+- Watch for accidental page additions that occur when making changes to a file open in multiple locations simultaneously
+- Such modifications cause "conflicting files when syncing"
+
+The article recommends clicking the accompanying image to view a demonstration video for visual guidance on the process.

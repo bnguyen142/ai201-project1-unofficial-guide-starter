@@ -1,0 +1,50 @@
+Source: Sheila Mac Adventures — Prepping Your Supernote
+URL: https://www.sheilamacadventures.com/organization/prepsupernote
+
+Supernote Setup Guide: A Three-Phase Integration Journey
+
+Phase 1: Preflight — Preparation
+
+Core Concept: "preparing for takeoff, setting intentions, and building your foundation."
+
+Initial Actions:
+- Resist the urge to overcomplicate setup; begin by simply writing on the device
+- Experience the tactile sensation of pen meeting screen without pressure for perfection
+- Define your primary use case early (planner, sketchbook, or second brain)
+
+Foundational Setup:
+- Establish two main folder structures:
+  - Notes Folder: Active notebooks for planning, journaling, sketching, and ongoing projects
+  - Documents Folder: Reference materials, PDFs, and archived content
+- Set a clear intention about how the device will serve your workflow
+
+Phase 2: In Flight — Everyday Integration
+
+Core Concept: Finding rhythm and personalizing your system through consistent daily use.
+
+Workflow Example:
+The author implements a five-step methodology aligned with the P.A.R.A. Method:
+1. Research — Gather information fragments
+2. Synthesis — Connect ideas into meaningful insights
+3. Writing — Draft narratives and reflections
+4. Exporting — Transfer completed work to external tools (Drafts, Obsidian)
+5. Archiving — Store finished projects in your library
+
+Daily Practice:
+- Use a customized planner template each morning to outline goals
+- Integrate handwritten notes with digital calendar systems
+- Transition between reflection (morning journaling) and production (project work)
+- Gradually customize templates and create notebooks for recurring tasks
+
+Phase 3: Destination — Mastery and Legacy
+
+Core Concept: Evolution beyond device mechanics toward personal growth documentation.
+
+Advanced Practices:
+- Continuously refine organizational systems to match life changes
+- Use the device for creative expression (sketching, art, documentation)
+- Build a long-term archive reflecting your creative development
+- Recognize patterns in your handwriting and thought evolution over time
+
+Central Philosophy:
+The article emphasizes that successful Supernote integration prioritizes "slowing down to think better" rather than technological optimization. Success requires consistency, intention-setting, and viewing the device as a mirror of personal growth rather than merely a tool.

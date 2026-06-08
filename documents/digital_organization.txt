@@ -1,0 +1,28 @@
+Source: Sheila Mac Adventures — Mastering Digital Organization
+URL: https://www.sheilamacadventures.com/organization/masteringdigitalorganization/
+
+Mastering Digital Organization: A Minimalist Approach to Note Folders
+
+The article addresses the challenge of digital note management, explaining how unstructured systems create chaos. The author proposes a minimalist solution for Supernote users.
+
+Key Recommendations:
+
+1. Streamline Categories
+Rather than proliferating folders, consolidate related content. Combine "Work Projects," "Personal Projects," and "Hobbies" into a single "Projects" folder for better organization.
+
+2. Limit Subfolders
+"Resist the temptation to create endless layers of subfolders. Instead, aim for a shallow hierarchy with only a few levels of nesting." Two levels is usually enough on the Supernote.
+
+3. Use Descriptive Naming
+Apply clear, concise folder names that accurately describe their contents while avoiding vague terminology. Avoid generic names like "Notes" or "Misc."
+
+4. Archive Regularly
+Review and archive outdated notes periodically to maintain a lean, efficient system without digital clutter. The Supernote's Documents folder works well as an archive.
+
+Benefits of the Minimalist Approach:
+- Faster note retrieval — fewer places to look
+- Reduced mental fatigue from navigating complex hierarchies
+- Clearer organizational comprehension
+- Greater system flexibility for future changes
+
+This methodology helps users focus on productivity rather than struggling with complex folder hierarchies. For bullet journaling on Supernote, this means keeping a single BuJo notebook rather than splitting spreads across multiple folders.

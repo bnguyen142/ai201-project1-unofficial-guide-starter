@@ -1,0 +1,34 @@
+Source: Sheila Mac Adventures — Studying with the Supernote
+URL: https://www.sheilamacadventures.com/snworkflows/studying1
+
+Studying with the Supernote: Workflow Guide
+
+Overview:
+A three-part series on effective study techniques using a Supernote e-ink device. The workflow demonstrates how to study from physical books using Supernote's digital tools.
+
+Key Features Used:
+- Table of contents organization
+- Titles and keywords
+- Templates (checklist and Cornell)
+- Layers
+- Calendar functions
+- Screenshots and screensaver options
+
+Step 1: Building Your Study Framework
+1. Create a new notebook and apply the checklist template
+2. Replicate the book's table of contents by chapters
+3. Break each chapter into "Study Unit" sections with completion dates
+4. Convert section headers into titles for easier navigation
+
+Step 2: Active Learning Through Comprehension
+1. Start a new page in the same notebook and apply the Cornell Template
+2. Read and note important items from your source material
+3. Convert section names into keywords for searchability
+4. Create a separate "Answers" layer — write explanations in your own words
+5. Self-test by toggling between the question layer and the answers layer
+
+Why This Works:
+The Cornell Template structure (notes, cues, summary) maps naturally to the Supernote's layer system. Keywords make sections searchable across the whole device. The checklist template keeps track of which study units are complete. Toggling layers simulates flashcard-style review without leaving your notebook.
+
+Bullet Journal Application:
+This same workflow applies to BuJo users who want to track learning goals. Use a monthly spread to list study units, check them off as complete, and use keywords to link back to detailed notes pages.

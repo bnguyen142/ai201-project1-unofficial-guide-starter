@@ -1,0 +1,84 @@
+Source: r/Supernote — "Rookie Mistakes" thread
+URL: https://www.reddit.com/r/Supernote/comments/1ieidi5/rookie_mistakes/
+
+Rookie Mistakes (r/Supernote, submitted by WhyNoMo222, 85 upvotes)
+
+Thought it might be fun to share some of our "rookie" mistakes.
+
+Mine: Buying a lot of PDF planner/notebook documents to use BEFORE I had foundational knowledge of how the SN system works. Using said PDF's as a document vs. adding to "mystyle" to use as a template.
+
+Creating too many notebooks -- I was like Oprah, each subject/topic..and YOU get a notebook and YOU get a notebook! My best advice, just start with one & then as you discover you need a dedicated notebook, it's easy to split off.
+
+Create a test notebook that you can use to test out any features you are unclear on -- easy way to tool around and figure out the SN system in a low stakes environment.
+
+Lastly, create a Jot Note and pin it to your quick access menu -- this is where you can quickly add anything you would have scribbled on a napkin or sticky note.
+
+---
+
+Getting frustrated with only 8 quick access slots... Then realising I can make a note with links and add it to quick access.
+
+Buying most PDF notebooks... I do not regret the Hobonichi planner one of our members made, it's awesome, but most of the others were wasted funds.
+
+Getting bent out of shape because I couldn't zoom in on notes, then realising I can resize whatever I need to fix details on.
+
+Not realising I could use PDFs as note templates until entirely too late.
+
+Having to manually copy all of my info from PDF planners to Note planners is an ongoing struggle.
+
+---
+
+You can use PDFs as note templates. You can use the embedded links too -- but it takes a minute to load if it's a giant planner.
+
+Using PDF as a template instead of PNG takes up a lot of storage space. Ask an AI tool to convert the PDF to PNG at the screen size you want in pixels.
+
+---
+
+To zoom in on a note: lasso what you want to zoom in on and make it larger. Then lasso and resize back. Not as seamless as actual zoom but a good workaround.
+
+Another tip: if you flip from portrait to landscape, it's zoomed in more and then when you flip back, it's zoomed out. Useful for tracing icons.
+
+---
+
+I found a 5mm lined rule template online and that basically doubled the amount of text I could get on a page at once -- smaller lines automatically made me write smaller, who knew?
+
+I have one journal notebook for each month, with every day's date highlighted to produce a TOC.
+
+Every project gets its own notebook, and I link from the journal to the meeting in the project notebook and vice-versa to make navigating easier.
+
+Everything is real-time recognition for global searchability.
+
+Template resource: https://supernote-templates.mostlyuseful.tech/
+
+---
+
+I use the ToDo app as sort of an outline for most of my notes for easy overview of the notes with the headlines. I don't use it like a standard ToDo.
+
+How to use ToDo as an outline: Create a headline in your note. Select it with the lasso and press the ... button. Then select New Task. It will appear in the ToDo app Inbox. From there you can move it to any folder. You can also go directly to your note from the ToDo app. This gives an overview of all the headlines you add -- not a traditional to-do list but a navigation overview.
+
+---
+
+You really don't need templates. Supernote's hyperlinking is a game changer. Create a globals index with major subtopics, and then start creating a tree of subtopics and files.
+
+Hyperplanner resource: https://hyperpaper.me
+
+---
+
+There is no difference between Document and Note folders -- use them however you want. Personally keep .note files in Notes and PDFs in Documents for research.
+
+Once you place a PDF in the MyStyle folder, you can use it to create a note template and add pages as needed. Your PDF file just became a large note file.
+
+---
+
+How to use MyStyle: Add your file to the MyStyle folder. When you create a note, it's available under the customized option. If it doesn't show up, use any template to create your note, then go to menu > insert template > customized and locate it there. Once applied, delete the first page.
+
+---
+
+When you add a PDF as a note template you keep its embedded links PLUS the note features: keywords, headers, lasso to add to to-do, and note-to-note copy/paste. You can also add pages -- which you cannot do in a raw PDF. Your PDF becomes a note file with full functionality.
+
+Converting PDF to PNG first may save storage space before using as a template.
+
+---
+
+Another mistake: putting your elbow down onto the screen. It ruins the screen.
+
+Use the notebook a lot and get used to it. Don't try to master every feature at once -- discovery through use works better than reading every manual first.
